@@ -1,1 +1,1 @@
-# CeneoScraperSP
+# CeneoScraperGJ
